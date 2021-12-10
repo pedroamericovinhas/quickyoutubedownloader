@@ -1,6 +1,6 @@
 # quickyoutubedownloader
 
-Python script to search and download Youtube videos
+Python script to quickly search and download Youtube videos
 
 ## Installing
 
@@ -22,7 +22,11 @@ Execute the script:
 ```
 python qytd.py
 ```  
-  
+If you want to, you can specify the number of search results as well (default=5):
+```
+python qytd.py 8
+```  
+
 You should see something like:  
 ```
 Search Query(type 'quit' to exit):
